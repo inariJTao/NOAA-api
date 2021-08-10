@@ -1,0 +1,2067 @@
+[
+  {
+    "DATE": "2020-01-01",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-02",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-03",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-04",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-05",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-06",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-07",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-08",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-09",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-10",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-11",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-12",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-13",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-14",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-15",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-16",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-17",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-18",
+    "STATION": "US10polk012",
+    "PRCP": "  127"
+  },
+  {
+    "DATE": "2020-01-19",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-20",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-21",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-22",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-23",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-24",
+    "STATION": "US10polk012",
+    "PRCP": "  198"
+  },
+  {
+    "DATE": "2020-01-25",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-26",
+    "STATION": "US10polk012",
+    "PRCP": "   46"
+  },
+  {
+    "DATE": "2020-01-27",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-28",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-29",
+    "STATION": "US10polk012",
+    "PRCP": "   30"
+  },
+  {
+    "DATE": "2020-01-30",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-01-31",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-01",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-02",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-03",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-04",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-05",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-06",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-07",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-08",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-09",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-10",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-11",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-12",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-13",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-14",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-15",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-16",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-17",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-18",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-19",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-20",
+    "STATION": "US10polk012",
+    "PRCP": "   13"
+  },
+  {
+    "DATE": "2020-02-21",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-22",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-23",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-24",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-25",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-26",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-02-27",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-01",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-02",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-03",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-04",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-05",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-06",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-07",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-08",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-09",
+    "STATION": "US10polk012",
+    "PRCP": "  109"
+  },
+  {
+    "DATE": "2020-03-10",
+    "STATION": "US10polk012",
+    "PRCP": "   76"
+  },
+  {
+    "DATE": "2020-03-11",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-12",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-13",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-14",
+    "STATION": "US10polk012",
+    "PRCP": "  119"
+  },
+  {
+    "DATE": "2020-03-15",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-16",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-17",
+    "STATION": "US10polk012",
+    "PRCP": "   33"
+  },
+  {
+    "DATE": "2020-03-18",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-19",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-20",
+    "STATION": "US10polk012",
+    "PRCP": "  401"
+  },
+  {
+    "DATE": "2020-03-21",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-22",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-23",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-24",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-25",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-26",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-27",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-28",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-29",
+    "STATION": "US10polk012",
+    "PRCP": "  140"
+  },
+  {
+    "DATE": "2020-03-30",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-03-31",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-01",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-02",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-03",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-04",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-05",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-06",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-07",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-08",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-09",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-10",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-11",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-12",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-13",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-14",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-15",
+    "STATION": "US10polk012",
+    "PRCP": "   76"
+  },
+  {
+    "DATE": "2020-04-16",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-17",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-18",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-19",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-20",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-21",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-22",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-23",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-24",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-04-25",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-01",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-02",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-03",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-04",
+    "STATION": "US10polk012",
+    "PRCP": "   91"
+  },
+  {
+    "DATE": "2020-05-05",
+    "STATION": "US10polk012",
+    "PRCP": "   23"
+  },
+  {
+    "DATE": "2020-05-06",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-07",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-08",
+    "STATION": "US10polk012",
+    "PRCP": "   74"
+  },
+  {
+    "DATE": "2020-05-09",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-10",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-11",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-12",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-13",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-14",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-15",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-16",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-17",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-18",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-19",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-20",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-21",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-05-22",
+    "STATION": "US10polk012",
+    "PRCP": "  183"
+  },
+  {
+    "DATE": "2020-05-23",
+    "STATION": "US10polk012",
+    "PRCP": "  432"
+  },
+  {
+    "DATE": "2020-05-24",
+    "STATION": "US10polk012",
+    "PRCP": "  178"
+  },
+  {
+    "DATE": "2020-05-25",
+    "STATION": "US10polk012",
+    "PRCP": "  191"
+  },
+  {
+    "DATE": "2020-05-26",
+    "STATION": "US10polk012",
+    "PRCP": "   38"
+  },
+  {
+    "DATE": "2020-06-01",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-02",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-03",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-04",
+    "STATION": "US10polk012",
+    "PRCP": "   84"
+  },
+  {
+    "DATE": "2020-06-05",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-06",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-07",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-08",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-09",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-10",
+    "STATION": "US10polk012",
+    "PRCP": "   79"
+  },
+  {
+    "DATE": "2020-06-11",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-12",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-13",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-14",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-15",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-16",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-17",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-18",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-19",
+    "STATION": "US10polk012",
+    "PRCP": "  127"
+  },
+  {
+    "DATE": "2020-06-20",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-21",
+    "STATION": "US10polk012",
+    "PRCP": "  264"
+  },
+  {
+    "DATE": "2020-06-22",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-23",
+    "STATION": "US10polk012",
+    "PRCP": "  170"
+  },
+  {
+    "DATE": "2020-06-24",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-25",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-26",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-27",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-28",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-29",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-06-30",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-01",
+    "STATION": "US10polk012",
+    "PRCP": "  216"
+  },
+  {
+    "DATE": "2020-07-02",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-03",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-04",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-05",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-06",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-07",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-08",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-09",
+    "STATION": "US10polk012",
+    "PRCP": "  389"
+  },
+  {
+    "DATE": "2020-07-10",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-11",
+    "STATION": "US10polk012",
+    "PRCP": "  170"
+  },
+  {
+    "DATE": "2020-07-12",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-13",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-14",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-15",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-16",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-17",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-18",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-19",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-20",
+    "STATION": "US10polk012",
+    "PRCP": "  163"
+  },
+  {
+    "DATE": "2020-07-21",
+    "STATION": "US10polk012",
+    "PRCP": "  163"
+  },
+  {
+    "DATE": "2020-07-22",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-23",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-24",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-25",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-26",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-27",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-28",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-29",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-30",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-07-31",
+    "STATION": "US10polk012",
+    "PRCP": "  122"
+  },
+  {
+    "DATE": "2020-08-01",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-02",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-03",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-04",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-05",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-06",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-07",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-08",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-09",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-10",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-11",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-12",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-13",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-14",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-15",
+    "STATION": "US10polk012",
+    "PRCP": "  152"
+  },
+  {
+    "DATE": "2020-08-16",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-17",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-18",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-19",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-20",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-21",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-22",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-23",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-24",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-25",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-26",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-27",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-28",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-29",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-30",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-08-31",
+    "STATION": "US10polk012",
+    "PRCP": "   58"
+  },
+  {
+    "DATE": "2020-09-01",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-02",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-03",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-04",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-05",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-06",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-07",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-08",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-09",
+    "STATION": "US10polk012",
+    "PRCP": "  305"
+  },
+  {
+    "DATE": "2020-09-10",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-11",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-12",
+    "STATION": "US10polk012",
+    "PRCP": "   53"
+  },
+  {
+    "DATE": "2020-09-13",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-14",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-15",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-16",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-17",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-18",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-19",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-20",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-21",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-22",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-23",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-24",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-25",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-26",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-27",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-28",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-29",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-09-30",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-01",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-02",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-03",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-04",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-05",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-06",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-07",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-08",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-09",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-10",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-12",
+    "STATION": "US10polk012",
+    "PRCP": "   74"
+  },
+  {
+    "DATE": "2020-10-16",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-17",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-18",
+    "STATION": "US10polk012",
+    "PRCP": "   46"
+  },
+  {
+    "DATE": "2020-10-19",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-20",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-21",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-22",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-10-23",
+    "STATION": "US10polk012",
+    "PRCP": "   10"
+  },
+  {
+    "DATE": "2020-10-24",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-12-13",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-12-24",
+    "STATION": "US10polk012",
+    "PRCP": "   30"
+  },
+  {
+    "DATE": "2020-12-25",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-12-26",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-12-27",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-12-28",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-12-29",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2020-12-30",
+    "STATION": "US10polk012",
+    "PRCP": "  107"
+  },
+  {
+    "DATE": "2020-12-31",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-01-01",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-01-02",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-01-03",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-01-04",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-01-05",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-01-06",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-01-07",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-01-08",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-01-09",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-01-10",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-01-11",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-01-12",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-01",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-02",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-03",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-04",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-05",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-06",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-07",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-08",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-09",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-10",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-11",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-12",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-13",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-14",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-16",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-17",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-18",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-19",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-20",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-21",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-22",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-03-23",
+    "STATION": "US10polk012",
+    "PRCP": "  356"
+  },
+  {
+    "DATE": "2021-03-24",
+    "STATION": "US10polk012",
+    "PRCP": "  244"
+  },
+  {
+    "DATE": "2021-03-27",
+    "STATION": "US10polk012",
+    "PRCP": "   81"
+  },
+  {
+    "DATE": "2021-04-01",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-02",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-03",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-04",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-05",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-06",
+    "STATION": "US10polk012",
+    "PRCP": "   23"
+  },
+  {
+    "DATE": "2021-04-07",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-08",
+    "STATION": "US10polk012",
+    "PRCP": "  175"
+  },
+  {
+    "DATE": "2021-04-09",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-10",
+    "STATION": "US10polk012",
+    "PRCP": "   84"
+  },
+  {
+    "DATE": "2021-04-11",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-12",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-13",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-14",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-15",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-16",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-17",
+    "STATION": "US10polk012",
+    "PRCP": "   76"
+  },
+  {
+    "DATE": "2021-04-18",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-19",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-20",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-21",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-22",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-23",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-24",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-25",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-26",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-27",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-28",
+    "STATION": "US10polk012",
+    "PRCP": "  117"
+  },
+  {
+    "DATE": "2021-04-29",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-04-30",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-01",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-02",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-03",
+    "STATION": "US10polk012",
+    "PRCP": "  191"
+  },
+  {
+    "DATE": "2021-05-04",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-05",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-06",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-07",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-08",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-09",
+    "STATION": "US10polk012",
+    "PRCP": "  168"
+  },
+  {
+    "DATE": "2021-05-10",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-11",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-12",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-13",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-14",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-15",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-16",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-17",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-18",
+    "STATION": "US10polk012",
+    "PRCP": "   81"
+  },
+  {
+    "DATE": "2021-05-19",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-20",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-21",
+    "STATION": "US10polk012",
+    "PRCP": "   58"
+  },
+  {
+    "DATE": "2021-05-22",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-23",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-25",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-26",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-27",
+    "STATION": "US10polk012",
+    "PRCP": "  211"
+  },
+  {
+    "DATE": "2021-05-28",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-30",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-05-31",
+    "STATION": "US10polk012",
+    "PRCP": "  140"
+  },
+  {
+    "DATE": "2021-06-01",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-02",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-03",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-04",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-05",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-06",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-07",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-08",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-09",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-10",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-11",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-12",
+    "STATION": "US10polk012",
+    "PRCP": "  254"
+  },
+  {
+    "DATE": "2021-06-13",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-14",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-15",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-16",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-17",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-18",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-19",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-20",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-21",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-22",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-23",
+    "STATION": "US10polk012",
+    "PRCP": "   71"
+  },
+  {
+    "DATE": "2021-06-24",
+    "STATION": "US10polk012",
+    "PRCP": "  254"
+  },
+  {
+    "DATE": "2021-06-25",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  },
+  {
+    "DATE": "2021-06-26",
+    "STATION": "US10polk012",
+    "PRCP": "  157"
+  },
+  {
+    "DATE": "2021-07-01",
+    "STATION": "US10polk012",
+    "PRCP": "    0"
+  }
+]

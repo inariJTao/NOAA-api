@@ -1,0 +1,223 @@
+[
+  {
+    "DATE": "2020-01-19",
+    "STATION": "US1SDCM0005",
+    "SNOW": "   76",
+    "PRCP": "   38"
+  },
+  {
+    "DATE": "2020-03-14",
+    "STATION": "US1SDCM0005",
+    "SNOW": "   91",
+    "PRCP": "   66"
+  },
+  {
+    "DATE": "2020-03-20",
+    "STATION": "US1SDCM0005",
+    "SNOW": "  135",
+    "PRCP": "  124"
+  },
+  {
+    "DATE": "2020-03-28",
+    "STATION": "US1SDCM0005",
+    "PRCP": "    8"
+  },
+  {
+    "DATE": "2020-03-29",
+    "STATION": "US1SDCM0005",
+    "PRCP": "  150"
+  },
+  {
+    "DATE": "2020-04-13",
+    "STATION": "US1SDCM0005",
+    "SNOW": "  155",
+    "PRCP": "   76"
+  },
+  {
+    "DATE": "2020-05-05",
+    "STATION": "US1SDCM0005",
+    "PRCP": "  170"
+  },
+  {
+    "DATE": "2020-05-08",
+    "STATION": "US1SDCM0005",
+    "PRCP": "  168"
+  },
+  {
+    "DATE": "2020-05-17",
+    "STATION": "US1SDCM0005",
+    "PRCP": "  155"
+  },
+  {
+    "DATE": "2020-05-24",
+    "STATION": "US1SDCM0005",
+    "PRCP": "  206"
+  },
+  {
+    "DATE": "2020-05-26",
+    "STATION": "US1SDCM0005",
+    "PRCP": "  135"
+  },
+  {
+    "DATE": "2020-06-09",
+    "STATION": "US1SDCM0005",
+    "PRCP": "    5"
+  },
+  {
+    "DATE": "2020-06-10",
+    "STATION": "US1SDCM0005",
+    "PRCP": "  173"
+  },
+  {
+    "DATE": "2020-06-18",
+    "STATION": "US1SDCM0005",
+    "PRCP": "   74"
+  },
+  {
+    "DATE": "2020-06-20",
+    "STATION": "US1SDCM0005",
+    "PRCP": "   30"
+  },
+  {
+    "DATE": "2020-06-23",
+    "STATION": "US1SDCM0005",
+    "PRCP": "   46"
+  },
+  {
+    "DATE": "2020-07-03",
+    "STATION": "US1SDCM0005",
+    "PRCP": "   51"
+  },
+  {
+    "DATE": "2020-07-07",
+    "STATION": "US1SDCM0005",
+    "PRCP": "   76"
+  },
+  {
+    "DATE": "2020-07-09",
+    "STATION": "US1SDCM0005",
+    "PRCP": "   81"
+  },
+  {
+    "DATE": "2020-07-25",
+    "STATION": "US1SDCM0005",
+    "PRCP": " 1016"
+  },
+  {
+    "DATE": "2020-08-09",
+    "STATION": "US1SDCM0005",
+    "PRCP": "   81"
+  },
+  {
+    "DATE": "2020-08-10",
+    "STATION": "US1SDCM0005",
+    "PRCP": "  178"
+  },
+  {
+    "DATE": "2020-09-09",
+    "STATION": "US1SDCM0005",
+    "PRCP": "   30"
+  },
+  {
+    "DATE": "2020-09-10",
+    "STATION": "US1SDCM0005",
+    "PRCP": "   38"
+  },
+  {
+    "DATE": "2020-10-26",
+    "STATION": "US1SDCM0005",
+    "SNOW": "  147",
+    "PRCP": "   46"
+  },
+  {
+    "DATE": "2020-11-09",
+    "STATION": "US1SDCM0005",
+    "PRCP": "  318"
+  },
+  {
+    "DATE": "2020-11-11",
+    "STATION": "US1SDCM0005",
+    "SNOW": "  152",
+    "PRCP": "   64"
+  },
+  {
+    "DATE": "2021-01-26",
+    "STATION": "US1SDCM0005",
+    "SNOW": "   97",
+    "PRCP": "   30"
+  },
+  {
+    "DATE": "2021-02-04",
+    "STATION": "US1SDCM0005",
+    "SNOW": "   71",
+    "PRCP": "   20"
+  },
+  {
+    "DATE": "2021-02-09",
+    "STATION": "US1SDCM0005",
+    "SNOW": "   51",
+    "PRCP": "    3"
+  },
+  {
+    "DATE": "2021-02-11",
+    "STATION": "US1SDCM0005",
+    "SNOW": "    0",
+    "PRCP": "    3"
+  },
+  {
+    "DATE": "2021-03-15",
+    "STATION": "US1SDCM0005",
+    "PRCP": "  318"
+  },
+  {
+    "DATE": "2021-03-17",
+    "STATION": "US1SDCM0005",
+    "SNOW": "    0",
+    "PRCP": "   51"
+  },
+  {
+    "DATE": "2021-03-23",
+    "STATION": "US1SDCM0005",
+    "PRCP": "  140"
+  },
+  {
+    "DATE": "2021-04-07",
+    "STATION": "US1SDCM0005",
+    "PRCP": "  122"
+  },
+  {
+    "DATE": "2021-05-09",
+    "STATION": "US1SDCM0005",
+    "PRCP": "   46"
+  },
+  {
+    "DATE": "2021-05-17",
+    "STATION": "US1SDCM0005",
+    "PRCP": "   13"
+  },
+  {
+    "DATE": "2021-05-20",
+    "STATION": "US1SDCM0005",
+    "PRCP": "  160"
+  },
+  {
+    "DATE": "2021-05-24",
+    "STATION": "US1SDCM0005",
+    "PRCP": "  127"
+  },
+  {
+    "DATE": "2021-06-11",
+    "STATION": "US1SDCM0005",
+    "PRCP": "  335"
+  },
+  {
+    "DATE": "2021-06-26",
+    "STATION": "US1SDCM0005",
+    "PRCP": "   58"
+  },
+  {
+    "DATE": "2021-06-29",
+    "STATION": "US1SDCM0005",
+    "PRCP": "   66"
+  }
+]

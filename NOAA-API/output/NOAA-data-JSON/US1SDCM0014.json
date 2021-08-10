@@ -1,0 +1,250 @@
+[
+  {
+    "DATE": "2020-01-24",
+    "STATION": "US1SDCM0014",
+    "SNOW": "  102",
+    "PRCP": "   43"
+  },
+  {
+    "DATE": "2020-03-14",
+    "STATION": "US1SDCM0014",
+    "SNOW": "   97",
+    "PRCP": "   69"
+  },
+  {
+    "DATE": "2020-03-20",
+    "STATION": "US1SDCM0014",
+    "SNOW": "  135",
+    "PRCP": "  130"
+  },
+  {
+    "DATE": "2020-03-28",
+    "STATION": "US1SDCM0014",
+    "PRCP": "    5"
+  },
+  {
+    "DATE": "2020-03-29",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  155"
+  },
+  {
+    "DATE": "2020-04-13",
+    "STATION": "US1SDCM0014",
+    "SNOW": "  147",
+    "PRCP": "   99"
+  },
+  {
+    "DATE": "2020-05-05",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  180"
+  },
+  {
+    "DATE": "2020-05-08",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  173"
+  },
+  {
+    "DATE": "2020-05-17",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  168"
+  },
+  {
+    "DATE": "2020-05-24",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  373"
+  },
+  {
+    "DATE": "2020-05-26",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  119"
+  },
+  {
+    "DATE": "2020-06-09",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  290"
+  },
+  {
+    "DATE": "2020-06-10",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  279"
+  },
+  {
+    "DATE": "2020-06-18",
+    "STATION": "US1SDCM0014",
+    "PRCP": "   74"
+  },
+  {
+    "DATE": "2020-06-20",
+    "STATION": "US1SDCM0014",
+    "PRCP": "   23"
+  },
+  {
+    "DATE": "2020-06-24",
+    "STATION": "US1SDCM0014",
+    "PRCP": "   51"
+  },
+  {
+    "DATE": "2020-06-30",
+    "STATION": "US1SDCM0014",
+    "PRCP": "   86"
+  },
+  {
+    "DATE": "2020-07-03",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  104"
+  },
+  {
+    "DATE": "2020-07-07",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  168"
+  },
+  {
+    "DATE": "2020-07-09",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  102"
+  },
+  {
+    "DATE": "2020-07-25",
+    "STATION": "US1SDCM0014",
+    "PRCP": " 1245"
+  },
+  {
+    "DATE": "2020-07-26",
+    "STATION": "US1SDCM0014",
+    "PRCP": "   18"
+  },
+  {
+    "DATE": "2020-08-09",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  102"
+  },
+  {
+    "DATE": "2020-08-10",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  152"
+  },
+  {
+    "DATE": "2020-09-09",
+    "STATION": "US1SDCM0014",
+    "PRCP": "   25"
+  },
+  {
+    "DATE": "2020-09-10",
+    "STATION": "US1SDCM0014",
+    "PRCP": "   56"
+  },
+  {
+    "DATE": "2020-10-26",
+    "STATION": "US1SDCM0014",
+    "SNOW": "  155",
+    "PRCP": "   51"
+  },
+  {
+    "DATE": "2020-11-09",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  330"
+  },
+  {
+    "DATE": "2020-11-11",
+    "STATION": "US1SDCM0014",
+    "SNOW": "  142",
+    "PRCP": "   76"
+  },
+  {
+    "DATE": "2021-01-26",
+    "STATION": "US1SDCM0014",
+    "SNOW": "  102",
+    "PRCP": "   33"
+  },
+  {
+    "DATE": "2021-02-04",
+    "STATION": "US1SDCM0014",
+    "SNOW": "   79",
+    "PRCP": "   23"
+  },
+  {
+    "DATE": "2021-02-09",
+    "STATION": "US1SDCM0014",
+    "SNOW": "   51",
+    "PRCP": "   25"
+  },
+  {
+    "DATE": "2021-02-11",
+    "STATION": "US1SDCM0014",
+    "SNOW": "    0",
+    "PRCP": "    3"
+  },
+  {
+    "DATE": "2021-03-10",
+    "STATION": "US1SDCM0014",
+    "PRCP": "   56"
+  },
+  {
+    "DATE": "2021-03-11",
+    "STATION": "US1SDCM0014",
+    "SNOW": "   51",
+    "PRCP": "   94"
+  },
+  {
+    "DATE": "2021-03-15",
+    "STATION": "US1SDCM0014",
+    "SNOW": "  135",
+    "PRCP": "  328"
+  },
+  {
+    "DATE": "2021-03-17",
+    "STATION": "US1SDCM0014",
+    "SNOW": "    0",
+    "PRCP": "   56"
+  },
+  {
+    "DATE": "2021-03-23",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  135"
+  },
+  {
+    "DATE": "2021-03-24",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  244"
+  },
+  {
+    "DATE": "2021-04-07",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  203"
+  },
+  {
+    "DATE": "2021-05-09",
+    "STATION": "US1SDCM0014",
+    "PRCP": "   94"
+  },
+  {
+    "DATE": "2021-05-17",
+    "STATION": "US1SDCM0014",
+    "PRCP": "   30"
+  },
+  {
+    "DATE": "2021-05-20",
+    "STATION": "US1SDCM0014",
+    "PRCP": "   91"
+  },
+  {
+    "DATE": "2021-05-24",
+    "STATION": "US1SDCM0014",
+    "PRCP": "   97"
+  },
+  {
+    "DATE": "2021-06-11",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  292"
+  },
+  {
+    "DATE": "2021-06-26",
+    "STATION": "US1SDCM0014",
+    "PRCP": "   28"
+  },
+  {
+    "DATE": "2021-06-29",
+    "STATION": "US1SDCM0014",
+    "PRCP": "  246"
+  }
+]
