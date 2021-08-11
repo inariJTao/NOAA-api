@@ -35,11 +35,12 @@ class ReadCsvFile:
 
 class CommandLine:
 
-    def __init__(self, df, box_range, start, end):
+    def __init__(self, df, box_range, start, end, data_type):
         self.df = df
         self.box_range = box_range
         self.start = start
         self.end = end
+        self.data_type = data_type
 
     def create_command(self, station_id, latitude, longitude):
         filename = station_id + "_" + str(latitude) + "_" + str(longitude) + ".json"
@@ -48,7 +49,7 @@ class CommandLine:
         output_path_2 = "../../output/NOAA-data-JSON/"
 
         command = "python search_api.py -d daily-summaries -sd " + self.start + " -ed " + self.end + " -la " + \
-                  str(latitude) + " -lo " + str(longitude) + " -a TMIN TMAX PRCP -b " + str(self.box_range) + " -s " + \
+                  str(latitude) + " -lo " + str(longitude) + " -a " + self.data_type + " -b " + str(self.box_range) + " -s " + \
                   output_path_1 + "/" + filename + " -dp " + output_path_2
 
         return command
@@ -383,6 +384,7 @@ def main():
     box_range = 100
     start_date = "2020-01-01"
     end_date = "2021-07-01"
+    data_type = "TMIN TMAX PRCP"
     ##########################################
 
     # read input csv file
@@ -390,7 +392,7 @@ def main():
     df = r.read_csv()
 
     # generate command and run the command
-    c = CommandLine(df, box_range, start_date, end_date)
+    c = CommandLine(df, box_range, start_date, end_date, data_type)
     c.operate_command()
 
     # generate station report
