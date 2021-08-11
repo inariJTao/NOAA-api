@@ -13,6 +13,7 @@ class MakeDirectory:
 
         os.mkdir(r"NOAA-data-coverage")
         os.mkdir(r"NOAA-data-csv")
+        os.mkdir(r"NOAA-data-csv-sorted")
         os.mkdir(r"NOAA-data-JSON")
         os.mkdir(r"NOAA-data-missing-date")
         os.mkdir(r"NOAA-data-station-info")
@@ -49,7 +50,8 @@ class CommandLine:
         output_path_2 = "../../output/NOAA-data-JSON/"
 
         command = "python search_api.py -d daily-summaries -sd " + self.start + " -ed " + self.end + " -la " + \
-                  str(latitude) + " -lo " + str(longitude) + " -a " + self.data_type + " -b " + str(self.box_range) + " -s " + \
+                  str(latitude) + " -lo " + str(longitude) + " -a " + self.data_type + " -b " + str(
+            self.box_range) + " -s " + \
                   output_path_1 + "/" + filename + " -dp " + output_path_2
 
         return command
@@ -150,63 +152,94 @@ class JsonToCsv:
     def temp_conversion(self, temp):
         return temp / 10 * (9 / 5) + 32
 
-    def generate_NOAA_csv(self):
+    def prcp_coversion(self, prcp):
+        return prcp * 0.0393701
+
+    def CRO_NOAA_dictionary(self):
         os.chdir(r"output/NOAA-data-valid-station-report")
 
         df = pd.read_csv("NOAA_valid_station_report.csv")
 
-        num_col = len(df.columns)
-        number_of_ID = int((num_col - 3) / 4)
+        num_row = df.shape[0]
 
-        NOAA_station_id = []
+        list_CRO = []
+        list_NOAA_station = []
+        for i in range(num_row):
+            list_CRO.append(df['filename'][i][:-5])
+            valid_station_num = df['valid_station_num'][i]
 
-        for i in range(1, number_of_ID + 1):
-            ID_string = "station_ID_" + str(i)
+            list_NOAA_sub = []
+            for j in range(1, int(valid_station_num) + 1):
+                index = 4 * j - 1
+                list_NOAA_sub.append(df.iloc[i, index])
+            list_NOAA_station.append(list_NOAA_sub)
 
-            station_id = df[ID_string].dropna().values.tolist()
-            NOAA_station_id += station_id
+        return dict(zip(list_CRO, list_NOAA_station)), df
 
-        NOAA_station_id = set(NOAA_station_id)
+    def convert_to_csv(self, data):
 
-        os.chdir(r"../../output/NOAA-data-JSON")
-        path = r"../../output/NOAA-data-JSON"
+        list_whole = []
 
-        for json_file in os.listdir(path):
-            file_name = json_file[:-5]
-            if file_name in NOAA_station_id:
-                f = open(json_file, )
-                data = json.load(f)
+        for i in range(len(data)):
+            list_row = [data[i]['DATE']]
 
-                list_whole = []
+            if data[i].get('TMIN') is None:
+                list_row.append(None)
+            else:
+                list_row.append(self.temp_conversion(int(data[i]['TMIN'])))
 
-                for i in range(len(data)):
-                    list_row = [data[i]['DATE']]
+            if data[i].get('TMAX') is None:
+                list_row.append(None)
+            else:
+                list_row.append(self.temp_conversion(int(data[i]['TMAX'])))
 
-                    if data[i].get('TMIN') is None:
-                        list_row.append(None)
-                    else:
-                        list_row.append(self.temp_conversion(int(data[i]['TMIN'])))
+            if data[i].get('PRCP') is None:
+                list_row.append(None)
+            else:
+                list_row.append(self.prcp_coversion(int(data[i]['PRCP'])))
 
-                    if data[i].get('TMAX') is None:
-                        list_row.append(None)
-                    else:
-                        list_row.append(self.temp_conversion(int(data[i]['TMAX'])))
+            list_whole.append(list_row)
 
-                    if data[i].get('PRCP') is None:
-                        list_row.append(None)
-                    else:
-                        list_row.append(int(data[i]['PRCP']))
+        df = pd.DataFrame(list_whole)
+        df.columns = ["date", "min", "max", "precipitation"]
 
-                    list_whole.append(list_row)
+        return df
 
-                df = pd.DataFrame(list_whole)
-                df.columns = ["date", "min", "max", "precipitation"]
+    def generate_report(self):
+        dict, df = self.CRO_NOAA_dictionary()
 
-                os.chdir(r"../../output/NOAA-data-csv")
+        os.chdir(r"../../output/NOAA-data-csv-sorted")
 
-                df.to_csv(file_name + ".csv")
+        CRO_id = (df['filename']).values.tolist()
 
-                os.chdir(r"../../output/NOAA-data-JSON")
+        for file in CRO_id:
+            os.mkdir(file[:-5])
+            os.chdir(file[:-5])
+
+            NOAA_list = dict[file[:-5]]
+
+            for NOAA_station in NOAA_list:
+
+                os.chdir(r"../../../output/NOAA-data-JSON")
+                path = r"../../output/NOAA-data-JSON"
+
+                for json_file in os.listdir(path):
+                    file_name = json_file[:-5]
+                    if file_name in NOAA_station:
+                        f = open(json_file, )
+                        data = json.load(f)
+
+                        df = self.convert_to_csv(data)
+
+                        os.chdir(r"../../output/NOAA-data-csv-sorted/" + file[:-5])
+                        df.to_csv(file_name + ".csv")
+
+                        os.chdir(r"../../../output/NOAA-data-csv/")
+                        df.to_csv(file_name + ".csv")
+
+                os.chdir(r"../../output/NOAA-data-csv-sorted/" + file[:-5])
+
+            os.chdir(r"../../../output/NOAA-data-csv-sorted")
 
         os.chdir(r"../../")
 
@@ -401,7 +434,7 @@ def main():
 
     # convert JSON to csv
     j = JsonToCsv()
-    j.generate_NOAA_csv()
+    j.generate_report()
 
     # data coverage and missing data report
     d = DataCoverage(start_date, end_date)
