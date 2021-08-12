@@ -50,9 +50,8 @@ class CommandLine:
         output_path_2 = "../../output/NOAA-data-JSON/"
 
         command = "python search_api.py -d daily-summaries -sd " + self.start + " -ed " + self.end + " -la " + \
-                  str(latitude) + " -lo " + str(longitude) + " -a " + self.data_type + " -b " + str(
-            self.box_range) + " -s " + \
-                  output_path_1 + "/" + filename + " -dp " + output_path_2
+                  str(latitude) + " -lo " + str(longitude) + " -a " + self.data_type + " -b " + str(self.box_range) + " -s " + \
+                  output_path_1 + "/" + filename + " -dp " + output_path_2 + " -i"
 
         return command
 
@@ -416,7 +415,7 @@ def main():
     input_file = r"input_csv/input_example.csv"
     box_range = 100
     start_date = "2020-01-01"
-    end_date = "2021-07-01"
+    end_date = "2021-08-11"
     data_type = "TMIN TMAX PRCP"
     ##########################################
 
